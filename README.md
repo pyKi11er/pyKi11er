@@ -1,9 +1,6 @@
-## Hi there 👋
-
 <!--
 **pyKi11er/pyKi11er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
-Here are some ideas to get you started:
 # Hello there, I'm Hayk Grigoryan
 
 I'm a final-year BSc Computer Science student at Eötvös Loránd University (ELTE), interested in data science and AI engineering. I enjoy building machine-learning projects and learning how data systems support real applications.
